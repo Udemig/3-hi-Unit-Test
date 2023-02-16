@@ -5,6 +5,8 @@ body {
   font-family: 'Poppins', sans-serif;
   background-color: teal;
   color: white;
+
+  overflow-x: hidden;
 }
 h1,
 p {
