@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 
 const Form = () => {
   const [isChecked, setIsChecked] = useState(false);
+  
   return (
     <form className="mt-4 row d-flex justify-content-center align-items-center">
       <div className="col-4 d-flex gap-4">
